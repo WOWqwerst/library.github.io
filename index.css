@@ -14,7 +14,7 @@ body {
         flex-flow: column nowrap;
     }
         .header {
-            background: url(../img/imagen.jpg);
+            background: url(imagen.jpg);
             background-position: center;
             background-attachment: contain;
             background-size: cover;
